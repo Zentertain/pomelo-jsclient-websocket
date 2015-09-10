@@ -1,11 +1,11 @@
 {
-  "name": "pomelo-jsclient-websocket",
+  "name": "@zentertain/pomelo-jsclient-websocket",
   "version": "0.1.1",
   "description": "pomelo jsclient for browser websocket",
   "main": "lib/pomelo-client.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pomelonode/pomelo-jsclient-websocket"
+    "url": "https://github.com/Zentertain/pomelo-jsclient-websocket"
   },
   "keywords": [
     "pomelo",
