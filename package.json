@@ -1,6 +1,6 @@
 {
   "name": "@zentertain/pomelo-jsclient-websocket",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "pomelo jsclient for browser websocket",
   "main": "lib/pomelo-client.js",
   "repository": {
